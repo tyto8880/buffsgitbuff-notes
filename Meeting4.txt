@@ -1,0 +1,19 @@
+Meeting 4 Notes
+
+Database Notes
+    -architecture: multiple different documents with seperate groups
+        -users
+        -exercises
+        -workouts
+        -goals
+    -everyone has connected to db
+
+Accomplishments for teams
+    -front-end : got a home page set up
+    -back-end : mongo DB set up for interaction
+
+For the next week
+    -front-end : sign up page, about page, javascript ideas
+    -back-end:
+        -DB: set up documents for storage
+        -integration layer: setting up input for db, html to database linkage
