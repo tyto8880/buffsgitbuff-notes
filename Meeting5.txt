@@ -1,0 +1,11 @@
+Meeting 5 10/23/18
+
+What we have completed:
+-VM for web server is configured, and everyone can ssh in
+-Front end basics are set up
+-basic Database is set up
+
+What to do
+-need to set up Database design
+-start to develop integration layer with python django
+-front end js
